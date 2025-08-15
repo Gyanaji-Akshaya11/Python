@@ -14,6 +14,12 @@ for i in range(0,len(arr)):
         lst.append(arr[i])
 print(lst)
 
+
+
+o/p:
+[0, 0, 1, 1, 2, 2]
+
         
+
 
     
