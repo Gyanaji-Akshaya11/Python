@@ -8,5 +8,10 @@ for i in range(0,len(arr)):
     if arr[i]<mini:
         mini=arr[i]
 print(mini,maxi)
-        
+
+
+
+o/p:
+1 10000
+
     
